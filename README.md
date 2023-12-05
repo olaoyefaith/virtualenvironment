@@ -103,17 +103,21 @@ Run the following command to start the virtual machine:
 ```bash
 vagrant up
 ```
- ![Alt text](images/vagrant%20provision.png)
+
+ ![Alt text](images/vagrant%20init%20up.png)
 
 ```bash
 vagrant reload
 ```
+
 ![Alt text](images/vagrant%20reload.png)
 
 ### 5.5 Access the Virtual Environment
+
 ```bash
 vagrant ssh
 ```
+
 ![Alt text](images/vagrantssh.png)
 
 ## 6. Conclusion
