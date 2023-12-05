@@ -1,5 +1,5 @@
 
-# Project Documentation: Setting Up a Virtual Environment on Windows using Oracle VirtualBox and Vagrant
+# Setting Up a Virtual Environment on Windows using Oracle VirtualBox and Vagrant
 
 ## 1. Introduction
 
